@@ -1,0 +1,67 @@
+.flex{
+    display: flex;
+}
+
+.justify-content{
+    justify-content: center;
+}
+
+.align-items{
+    align-items: center;
+}
+
+.lsn{
+    list-style: none;
+}
+
+.round{
+    border-radius: 100px;
+}
+
+.bg-trans{
+    background-color: transparent;
+}
+
+.grid{
+    display: grid;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.invert{
+    filter: invert(1);
+}
+
+.ml-1{
+    margin-left: 25px;
+}
+
+.ml-2{
+    margin-left: 15px;
+}
+
+.flex-wrap{
+    flex-wrap: wrap;
+}
+
+.border{
+    border: 1px solid white;
+}
+
+.hidden{
+    display: none;
+}
+
+.column{
+    flex-direction: column;
+}
+
+.underline{
+    text-decoration: underline;
+}
+
+.relative{
+    position: relative;
+}
