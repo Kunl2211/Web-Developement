@@ -1,0 +1,11 @@
+Hey Kunal this side, 
+This project is a music player (Client Side Application) which clones the spotify.com to some extent. You can add songs in your playlist folder they will automatically append in the playlist section.
+Artist Section is using the popular artist folder to generate tiles, you can append to it but keep in mind the display image should be inside the artist folder.
+There are two hamburgers, one to store playlist and other to store the nav content, adjusted dynamically.
+
+VS code is adviced to use, and to run it on mobile Live server will work.
+LIVE SERVER COMMON ISSUES RESOLUTIONS->
+1.Connect to the same network 
+2.Please ensure you are using Your IP address in the url, and not the localhost.
+3.Some browsers block the javascript, enable that in settings.
+4.Change the IP address of the fetch command in javascript to access computer files in your mobile or other devices
